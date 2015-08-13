@@ -1,0 +1,23 @@
+.large-3 {margin-top: 40px;}
+
+.large-3 img {width: 100%;}
+
+.main {color: #fff;}
+
+.margin-top {margin-top: 20px;}
+
+.left-col {float: left; max-width: 600px; display: inline-block; width: auto; margin-top: 20px; margin-right: 20px;}
+
+.right-col {float: left; max-width: 300px; display: inline-block; width: auto; margin-top: 20px;}
+
+.close-reveal-modal {z-index: 100;}
+
+.logo {float: left; margin: 10px;}
+
+li.active a {margin-top: 12px;}
+
+.sub-link {font-family: sans-serif, Verdana, Arial; font-size: 13px; color: #008cba; letter-spacing: 1px; text-align: center;}
+
+.sub-link:hover {font-family: sans-serif, Verdana, Arial; font-size: 13px; color: #008cba; letter-spacing: 1px; text-decoration: underline; text-align: center;}
+
+.lastrow {margin-bottom: 50px;}
